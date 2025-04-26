@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EduPlatform.API
+build_property.RootNamespace = EduPlatform.API
+build_property.ProjectDir = D:\new-project\src\EduPlatform.API\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\new-project\src\EduPlatform.API
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/new-project/src/EduPlatform.API/src/EduPlatform.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXEVkdVBsYXRmb3JtLldlYlxQYWdlc1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-xxz9zbfqgj
